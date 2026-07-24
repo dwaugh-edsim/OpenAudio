@@ -364,6 +364,16 @@
     }
   },
   {
+    "name": "OpenRig",
+    "url": "https://openrig-host.github.io/openrig/",
+    "description": "Intuitive mixer-style VST3 host for live keyboardists. Easily manage multi-VST setups and song setlists with built-in channel strip DSP, flexible ASIO routing, and separate FOH/IEM monitor buses.",
+    "repository": {
+      "type": "GitHub",
+      "user": "openrig-host",
+      "repo": "openrig"
+    }
+  },
+  {
     "name": "OpenUtau",
     "url": "https://www.openutau.com/",
     "description": "Singing synthesis platform for Windows, Mac and Linux that support UTAU voicebanks and machine learning voicebanks.",
